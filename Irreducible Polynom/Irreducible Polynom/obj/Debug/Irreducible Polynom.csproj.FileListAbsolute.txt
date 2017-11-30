@@ -1,0 +1,6 @@
+C:\Users\Сергей Резенков\Documents\Visual Studio 2015\Projects\Irreducible Polynom\Irreducible Polynom\bin\Debug\Irreducible Polynom.exe.config
+C:\Users\Сергей Резенков\Documents\Visual Studio 2015\Projects\Irreducible Polynom\Irreducible Polynom\bin\Debug\Irreducible Polynom.exe
+C:\Users\Сергей Резенков\Documents\Visual Studio 2015\Projects\Irreducible Polynom\Irreducible Polynom\bin\Debug\Irreducible Polynom.pdb
+C:\Users\Сергей Резенков\Documents\Visual Studio 2015\Projects\Irreducible Polynom\Irreducible Polynom\obj\Debug\Irreducible Polynom.csprojResolveAssemblyReference.cache
+C:\Users\Сергей Резенков\Documents\Visual Studio 2015\Projects\Irreducible Polynom\Irreducible Polynom\obj\Debug\Irreducible Polynom.exe
+C:\Users\Сергей Резенков\Documents\Visual Studio 2015\Projects\Irreducible Polynom\Irreducible Polynom\obj\Debug\Irreducible Polynom.pdb
